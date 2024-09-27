@@ -6,6 +6,7 @@ class Solution(object):
         """
         while True:
             if '()' in s:
+                s=s.replace
         pass
 
 
