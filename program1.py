@@ -15,7 +15,7 @@ class Solution(object):
                 return not s
 if __name__=='__main__':
         s="{[()]}"
-        print(f'Is {s}valid ?:{Solution().isValid}')
+        print(f'Is {s}valid ?:{Solution().isValid(s)}')
         pass
 
 
