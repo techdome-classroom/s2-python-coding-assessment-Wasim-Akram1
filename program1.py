@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         while True:
-            if '()'
+            if '()' in s:
         pass
 
 
