@@ -5,6 +5,11 @@ class Solution(object):
         for i in range(len(s)-1,-1,-1):
             num=roman[s[i]]
             if 3*num<sum:
+                sum=sum-num
+            else:
+                sum=sum+num
+        return sum
+
         """
         :type s: str
         :rtype: int
