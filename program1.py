@@ -18,8 +18,6 @@ if __name__=='__main__':
         print(f'Is {s}valid ?:{Solution().isValid(s)}')
         s1="{[(])}"
         print(f'Is {s}valid ?:{Solution().isValid(s1)}')
-        pass
-
 
 
 
