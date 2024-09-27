@@ -11,7 +11,8 @@ class Solution(object):
         return sum
 solution=Solution()
 roman_numeral1="MCMXCIV"
-re
+result=solution.romanToInt(roman_numeral1)
+print(result)
         """
         :type s: str
         :rtype: int
