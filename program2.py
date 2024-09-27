@@ -9,7 +9,7 @@ class Solution(object):
             else:
                 sum=sum+num
         return sum
-
+solution=Solution()
         """
         :type s: str
         :rtype: int
