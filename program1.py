@@ -11,6 +11,8 @@ class Solution(object):
                 s=s.replace('{}','')
             elif '[]'in s:
                 s=s.replace('[]','')
+            else:
+                return not s
         pass
 
 
