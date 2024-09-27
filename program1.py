@@ -13,6 +13,7 @@ class Solution(object):
                 s=s.replace('[]','')
             else:
                 return not s
+            
         pass
 
 
