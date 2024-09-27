@@ -13,7 +13,7 @@ class Solution(object):
                 s=s.replace('[]','')
             else:
                 return not s
-if __name__==''
+if __name__=='__main__':
         pass
 
 
