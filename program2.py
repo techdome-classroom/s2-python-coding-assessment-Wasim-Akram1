@@ -13,10 +13,7 @@ solution=Solution()
 roman_numeral1="MCMXCIV"
 result=solution.romanToInt(roman_numeral1)
 print(result)
-        """
-        :type s: str
-        :rtype: int
-        """
+
         pass
 
 
