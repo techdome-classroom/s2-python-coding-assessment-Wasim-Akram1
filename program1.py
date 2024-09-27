@@ -7,7 +7,8 @@ class Solution(object):
         while True:
             if '()' in s:
                 s=s.replace('()','')
-            elif '{}' in s
+            elif '{}' in s:
+                s=s.replace
         pass
 
 
