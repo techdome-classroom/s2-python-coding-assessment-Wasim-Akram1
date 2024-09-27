@@ -10,7 +10,8 @@ class Solution(object):
                 sum=sum+num
         return sum
 solution=Solution()
-roman_numeral1="MCMX"
+roman_numeral1="MCMXCIV"
+re
         """
         :type s: str
         :rtype: int
