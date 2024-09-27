@@ -8,7 +8,9 @@ class Solution(object):
             if '()' in s:
                 s=s.replace('()','')
             elif '{}' in s:
-                s=s.replace
+                s=s.replace('{}','')
+            elif '[]'in s:
+                s=s.replace('[]','')
         pass
 
 
