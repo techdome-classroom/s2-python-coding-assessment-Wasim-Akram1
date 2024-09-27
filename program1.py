@@ -14,7 +14,7 @@ class Solution(object):
             else:
                 return not s
 if __name__=='__main__':
-        s=""
+        s="{}"
         pass
 
 
