@@ -16,6 +16,7 @@ class Solution(object):
 if __name__=='__main__':
         s="{[()]}"
         print(f'Is {s}valid ?:{Solution().isValid(s)}')
+        s1=""
         pass
 
 
